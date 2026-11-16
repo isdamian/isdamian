@@ -1,16 +1,26 @@
-## Hi there 👋
+# Damian
 
-<!--
-**isdamian/isdamian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WEB DEVELOPER**
 
-Here are some ideas to get you started:
+> Building things for the web, exploring ideas and learning along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**About**
+
+I'm interested in building things for the web. I enjoy creating web interfaces, developing static applications and exploring new ideas through code.
+
+**Interests**
+
+- Web interfaces and user experiences
+- Frontend development
+- Static web applications
+- Exploring web technologies
+- Software development and problem-solving
+
+**My approach**
+
+- Turning ideas into functional projects.
+- Understanding how things work.
+- Improving through experimentation.
+- Learning by building.
